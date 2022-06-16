@@ -1,2 +1,1 @@
-# openmiccai
-Open Source Medical Image Computing and Computer Assisted Intervention Toolkit
+## OpenMICCAI: Open Source Medical Image Computing and Computer Assisted Intervention Toolkit
